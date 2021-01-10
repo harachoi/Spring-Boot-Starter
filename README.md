@@ -13,7 +13,7 @@ If you are not sure how to clone repsitory, visit https://help.github.com  to le
 
 ## To run the application:
 
-1. Go to ** Run ** and select ** Run Without Debugging **
+1. Go to **Run** and select **Run Without Debugging**
 2. Access the deployed web application at: http://127.0.0.1:7788/helloworld
 
 
